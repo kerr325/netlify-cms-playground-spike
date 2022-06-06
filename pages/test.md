@@ -1,4 +1,6 @@
 ---
-title: Test
+title: Home Page
 ---
-e
+### I'm a subhead
+
+This is a sample home page
